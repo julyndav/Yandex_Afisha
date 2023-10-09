@@ -1,3 +1,3 @@
 # Business_Analytics
-Optimize marketing expenses, calculate metrics and provide marketing recommendations for Yandex Afisha using Cohort Analysis
+Using Cohort Analysis to optimize marketing expenses, calculate metrics and provide marketing recommendations for Yandex Afisha.
 
