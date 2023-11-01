@@ -25,4 +25,14 @@ source_id — ad source identifier<li>
 dt — date<li>
 costs — expenses on this ad source on this day<li>
 
-During the analysis
+From using cohort analysis, here a few snapshots.  <p>
+![Orders over time](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/order%20over%20time.png)
+<p>
+<p></p>
+To see how customer purchases have played out over time, lets take a peek at the LTV (Life Time Value) of the customer base:
+
+![Life Time Value](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/LTV.png)
+
+To end the project, a through conclusion was given with reccommendations. This was expanded on in the above Tableau Dashboard. 
+
+
