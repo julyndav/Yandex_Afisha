@@ -3,23 +3,11 @@
 [Data Visualizations](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
 
 
-# Business_Analytics
+## Project overview:
 
-You've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses. 
+This project will focus on using Cohort Analysis and Data Visualizations to explore the analystical side of business. This will incorporate data cleaning, data manipulation, exploratory analysis, cohort analysis and visualizations. Customer metrics were plotted and the finding interpreted along with providing insights and conclustions to back up reccomendations to marketing, sales and excutives on which marketing sources are worth futher investment and which ones should be scrapped. 
 
-<b>You have access to:</b>
-Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
-Dump file with all orders for the period
-Marketing expenses statistics
-
-<b>Some points analysis will cover: </b>
-How people use the product
-When they start to buy
-How much money each customer brings
-When they pay off
-
-### Calculate various metrics and give insights/conlcusions over the following:
-1. Product 
+### Product Analaysis:
 How many people use it every day, week, and month?
 How many sessions are there per day? (One user might have more than one session.)
 What is the length of each session?
