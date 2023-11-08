@@ -48,8 +48,9 @@ costs — expenses on this ad source on this day
 | 8 | Cohort Analysis including determining ROI |
 | 9 | Project Conclusion(s) |
 
-
 <br></br>
+
+## Brief Analysis Overview:
 
 From using cohort analysis, here a few snapshots.  <p>
 ![Orders over time](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/order%20over%20time.png)
