@@ -1,3 +1,4 @@
+# Business Analytics
 ## Table of Contents:
 [Jupyter Notebook](https://github.com/julyndav/Business_Analytics/blob/main/BA_Yandex-Afisha.ipynb)<br>
 [Data Visualizations](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
