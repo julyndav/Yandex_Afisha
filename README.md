@@ -61,6 +61,7 @@ To see how customer purchases have played out over time, lets take a peek at the
 ![Life Time Value](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/LTV.png)
 
 To end the project, a through conclusion was given with reccommendations. This was expanded on in the above Tableau Dashboard. 
+<br></br>
 
 ## Brief Project Conclusion:
 #### <i>Full conclusion within the project notebook</i>
