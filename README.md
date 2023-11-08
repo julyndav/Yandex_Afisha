@@ -62,5 +62,6 @@ To see how customer purchases have played out over time, lets take a peek at the
 
 To end the project, a through conclusion was given with reccommendations. This was expanded on in the above Tableau Dashboard. 
 
-## Conclusion:
+## Brief Project Conclusion:
+#### <i>Full conclusion within the project notebook</i>
 *Overall Impression(s):Users get to the website and atleast make one purchase pretty much immediately. The ads are bringing in relevant users that want the product, but most users do not make multiple orders/visits and orders are small. Usally movie goers stay up to date on the latest and upcoming movies; it makes sense that their purchases would continue. Are customers not happy after their intial purchase?
